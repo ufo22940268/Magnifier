@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">放大镜</string>
+    <string name="demo">Google Developers originally shared:   Curious about how the I/O 2015 Experiment was built? Check out this case study from the agency Instrument, who in partnership with the Chrome Developer Relations team, used WebGL and Web Audio to create an engaging, delightful Chrome Experiment.  #io15  ﻿</string>
+</resources>
